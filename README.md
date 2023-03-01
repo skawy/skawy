@@ -1,6 +1,3 @@
-
-<img align="" alt="Coding"  heigt = "100"  width="100%" src="https://user-images.githubusercontent.com/63661486/222140799-44f45ea4-9ad0-4cc2-9c99-666cd61bdb55.gif">
-
 <h1 align="center">Hi 👋, I'm SkawY</h1>
 <h3 align="center">Data Scientist | ML Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJmYWRlYTYyZjM1YmZkMjNmZTgzY2I3ZGJiNGJhMzQxNmNiMmVmZSZjdD1n/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif">
