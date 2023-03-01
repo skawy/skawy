@@ -1,10 +1,10 @@
+[![MasterHead](https://miro.medium.com/max/1400/0*CHs47eo87tMPd_-q.gif)]
+
+
 <h1 align="center">Hi 👋, I'm SkawY</h1>
 <h3 align="center">Data Scientist | ML Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJmYWRlYTYyZjM1YmZkMjNmZTgzY2I3ZGJiNGJhMzQxNmNiMmVmZSZjdD1n/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skawy&label=Profile%20views&color=0e75b6&style=flat" alt="skawy" /> </p>
-
-<p align="left"> <a href="https://twitter.com/skawy_" target="blank"><img src="https://img.shields.io/twitter/follow/skawy_?logo=twitter&style=for-the-badge" alt="skawy_" /></a> </p>
 
 - 💬 Ask me about **NLP,Computer Vision and AI**
 
