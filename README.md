@@ -1,5 +1,4 @@
-![0_CHs47eo87tMPd_-q](https://user-images.githubusercontent.com/63661486/222140799-44f45ea4-9ad0-4cc2-9c99-666cd61bdb55.gif)
-
+[![MasterHead] (https://user-images.githubusercontent.com/63661486/222140799-44f45ea4-9ad0-4cc2-9c99-666cd61bdb55.gif) ]
 
 <h1 align="center">Hi 👋, I'm SkawY</h1>
 <h3 align="center">Data Scientist | ML Engineer</h3>
