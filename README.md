@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1400/0*CHs47eo87tMPd_-q.gif)]
+![0_CHs47eo87tMPd_-q](https://user-images.githubusercontent.com/63661486/222140799-44f45ea4-9ad0-4cc2-9c99-666cd61bdb55.gif)
 
 
 <h1 align="center">Hi 👋, I'm SkawY</h1>
