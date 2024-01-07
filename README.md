@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJmYWRlYTYyZjM1YmZkMjNmZTgzY2I3ZGJiNGJhMzQxNmNiMmVmZSZjdD1n/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif">
 
 
-- 💬 Ask me about **NLP,Computer Vision and AI**
+- 💬 Ask me about **Data Engineering,Data Science, ML and NLP**
 
 - 📫 How to reach me **elskawyahmedfci@gmail.com**
 
