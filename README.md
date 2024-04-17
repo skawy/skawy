@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SkawY</h1>
-<h3 align="center"> Software Engineer | Data Enthusiast</h3>
+<h3 align="center"> AI & Automation Engineer at _VOIS | Data Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJmYWRlYTYyZjM1YmZkMjNmZTgzY2I3ZGJiNGJhMzQxNmNiMmVmZSZjdD1n/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif">
 
 
